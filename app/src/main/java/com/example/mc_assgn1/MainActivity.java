@@ -1,3 +1,6 @@
+//Chavoy Davis
+//1603001
+//October 26, 2019
 package com.example.mc_assgn1;
 
 import androidx.appcompat.app.AppCompatActivity;
