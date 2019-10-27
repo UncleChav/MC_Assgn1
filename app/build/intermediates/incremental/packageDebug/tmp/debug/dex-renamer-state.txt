@@ -1,0 +1,4 @@
+#Sat Oct 26 22:31:55 COT 2019
+base.0=C\:\\Users\\Chavoy\\Documents\\UTECH MODULES\\Semester 7\\MC\\Labs\\MC_Assgn1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

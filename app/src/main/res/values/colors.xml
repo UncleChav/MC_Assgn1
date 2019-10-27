@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Easy Eats Colors -->
+    <color name ="primary_bg"> #455460 </color>
+    <color name ="status_color"> #2e3a44 </color>
+    <color name ="orange"> #f5b77b </color>
+    <color name ="drk_or"> #f2ad6a </color>
+    <color name ="light_blue"> #89c7f2 </color>
+    <color name ="white"> #ffffff </color>
+    <color name ="greyish"> #e1e1e1</color>
+    <color name="kindablue"> #95bdd8</color>
+    <color name="reallyblue">#7294ac</color>
+    <color name="palepink"> #cd8c89</color>
+    <color name="palered">#a56e6b</color>
+    <color name="seafoam"> #6ac7c8</color>
+    <color name="darkseafoam"> #4c9596</color>
+    <color name ="lightgrey"> #f1f1f1</color>
+    <color name="bg_grey">#fcfcfc</color>
+    <color name="textclr">#B8B8B8</color>
+    <color name="lightple">#9273bf</color>
+</resources>
